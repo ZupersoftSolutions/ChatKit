@@ -687,11 +687,11 @@ public class MessagesListAdapter<MESSAGE extends IMessage>
     /*
      * WRAPPER
      * */
-    public class Wrapper<DATA> {
+    public static class Wrapper<DATA> {
         public DATA item;
         public boolean isSelected;
 
-        Wrapper(DATA item) {
+        public Wrapper(DATA item) {
             this.item = item;
         }
     }
