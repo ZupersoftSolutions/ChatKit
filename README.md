@@ -49,9 +49,9 @@ implementation 'com.github.knaeckeKami:ChatKit:<RELEASE>'
 or Maven:
 ```xml
 <dependency>
-  <groupId>com.github.stfalcon</groupId>
-  <artifactId>chatkit</artifactId>
-  <version>0.3.3</version>
+  <groupId>com.github.knaeckeKami</groupId>
+  <artifactId>ChatKit</artifactId>
+  <version><RELEASE></version>
   <type>pom</type>
 </dependency>
 ```
