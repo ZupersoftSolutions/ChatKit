@@ -1,6 +1,6 @@
 # ChatKit for Android
 
-[![](https://jitpack.io/v/knaeckeKami/ChatKit.svg)](https://jitpack.io/#knaeckeKami/ChatKit)
+[![](https://jitpack.io/v/ZupersoftSolutions/ChatKit.svg)](https://jitpack.io/#ZupersoftSolutions/ChatKit)
 
 ChatKit is a library designed to simplify the development of UI for such a trivial task as chat. It has flexible possibilities for styling, customizing and data management
 
@@ -43,13 +43,13 @@ To implement all of the features above you can use the following components:
 
 Download via Gradle:
 ```gradle
-implementation 'com.github.knaeckeKami:ChatKit:<RELEASE>'
+implementation 'com.github.ZupersoftSolutions:ChatKit:<RELEASE>'
 ```
 
 or Maven:
 ```xml
 <dependency>
-  <groupId>com.github.knaeckeKami</groupId>
+  <groupId>com.github.ZupersoftSolutions</groupId>
   <artifactId>ChatKit</artifactId>
   <version><RELEASE></version>
   <type>pom</type>
